@@ -1,0 +1,13 @@
+{
+	"name": "carbonio-contacts-ui",
+	"js_entrypoint": "/static/iris/carbonio-contacts-ui/5ab5a6e1fb77a9f7a650bdbc159e120cfe4cd89f/app.cfb38f4735a7ec6a236d.js",
+	"description": "Contacts module",
+	"version": "1.11.2",
+	"commit": "5ab5a6e1fb77a9f7a650bdbc159e120cfe4cd89f",
+	"priority": 7,
+	"type": "carbonio",
+	"attrKey": "zimbraFeatureContactsEnabled",
+	"icon": "ContactsModOutline",
+	"display": "Contacts",
+	"sentryDsn": "https://a8c4ac88e95b49f1b7313b307499fc4f@feedback.zextras.tools/10"
+}

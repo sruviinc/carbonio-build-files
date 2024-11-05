@@ -1,0 +1,13 @@
+{
+	"name": "carbonio-calendars-ui",
+	"js_entrypoint": "/static/iris/carbonio-calendars-ui/2881f858a5c38fe50382b194d3d836707ffeed90/app.04bb12fe4973dc14186e.js",
+	"description": "Calendars module",
+	"version": "1.11.4",
+	"commit": "2881f858a5c38fe50382b194d3d836707ffeed90",
+	"priority": 6,
+	"type": "carbonio",
+	"attrKey": "zimbraFeatureCalendarEnabled",
+	"icon": "CalendarModOutline",
+	"display": "Calendars",
+	"sentryDsn": "https://dfa8afc4c2d9489a94a7e77fd8c70e36@feedback.zextras.tools/9"
+}

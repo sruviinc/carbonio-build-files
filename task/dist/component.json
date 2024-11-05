@@ -1,0 +1,13 @@
+{
+	"name": "carbonio-tasks-ui",
+	"js_entrypoint": "/static/iris/carbonio-tasks-ui/91325d7bb2a36b8b1fbeded640b04489761181ff/app.17a5e637fc4b280616b7.js",
+	"description": "Tasks module",
+	"version": "0.0.12",
+	"commit": "91325d7bb2a36b8b1fbeded640b04489761181ff",
+	"priority": 10,
+	"type": "carbonio",
+	"attrKey": "",
+	"icon": "CheckmarkCircle2Outline",
+	"display": "Tasks",
+	"sentryDsn": ""
+}

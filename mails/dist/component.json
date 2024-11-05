@@ -1,0 +1,13 @@
+{
+	"name": "carbonio-mails-ui",
+	"js_entrypoint": "/static/iris/carbonio-mails-ui/4fc3c72466229ae10b099e08c23dfa6e28bf33ce/app.13ca2fe3ce93334e8b96.js",
+	"description": "Mails module",
+	"version": "1.16.7",
+	"commit": "4fc3c72466229ae10b099e08c23dfa6e28bf33ce",
+	"priority": 5,
+	"type": "carbonio",
+	"attrKey": "zimbraFeatureMailEnabled",
+	"icon": "MailModOutline",
+	"display": "Mails",
+	"sentryDsn": "https://90672cc95a43460485b50717c4be69ab@feedback.zextras.tools/7"
+}

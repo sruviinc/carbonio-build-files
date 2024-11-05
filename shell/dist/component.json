@@ -1,0 +1,13 @@
+{
+	"name": "carbonio-shell-ui",
+	"js_entrypoint": "/static/iris/carbonio-shell-ui/bffe48bfdd05ef35ddd484dcd16aa96833107898/index.4c148e1e.js",
+	"description": "The Zextras Carbonio web client",
+	"version": "7.0.1",
+	"commit": "bffe48bfdd05ef35ddd484dcd16aa96833107898",
+	"priority": -1,
+	"type": "shell",
+	"attrKey": "",
+	"icon": "CubeOutline",
+	"display": "Shell",
+	"sentryDsn": ""
+}
